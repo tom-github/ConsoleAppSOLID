@@ -1,0 +1,13 @@
+C:\Users\tomms\source\repos\ConsoleAppSOLID\ConsoleAppSOLID\obj\Debug\netcoreapp3.1\ConsoleAppSOLID.csprojAssemblyReference.cache
+C:\Users\tomms\source\repos\ConsoleAppSOLID\ConsoleAppSOLID\obj\Debug\netcoreapp3.1\ConsoleAppSOLID.AssemblyInfoInputs.cache
+C:\Users\tomms\source\repos\ConsoleAppSOLID\ConsoleAppSOLID\obj\Debug\netcoreapp3.1\ConsoleAppSOLID.AssemblyInfo.cs
+C:\Users\tomms\source\repos\ConsoleAppSOLID\ConsoleAppSOLID\obj\Debug\netcoreapp3.1\ConsoleAppSOLID.csproj.CoreCompileInputs.cache
+C:\Users\tomms\source\repos\ConsoleAppSOLID\ConsoleAppSOLID\bin\Debug\netcoreapp3.1\ConsoleAppSOLID.exe
+C:\Users\tomms\source\repos\ConsoleAppSOLID\ConsoleAppSOLID\bin\Debug\netcoreapp3.1\ConsoleAppSOLID.deps.json
+C:\Users\tomms\source\repos\ConsoleAppSOLID\ConsoleAppSOLID\bin\Debug\netcoreapp3.1\ConsoleAppSOLID.runtimeconfig.json
+C:\Users\tomms\source\repos\ConsoleAppSOLID\ConsoleAppSOLID\bin\Debug\netcoreapp3.1\ConsoleAppSOLID.runtimeconfig.dev.json
+C:\Users\tomms\source\repos\ConsoleAppSOLID\ConsoleAppSOLID\bin\Debug\netcoreapp3.1\ConsoleAppSOLID.dll
+C:\Users\tomms\source\repos\ConsoleAppSOLID\ConsoleAppSOLID\bin\Debug\netcoreapp3.1\ConsoleAppSOLID.pdb
+C:\Users\tomms\source\repos\ConsoleAppSOLID\ConsoleAppSOLID\obj\Debug\netcoreapp3.1\ConsoleAppSOLID.dll
+C:\Users\tomms\source\repos\ConsoleAppSOLID\ConsoleAppSOLID\obj\Debug\netcoreapp3.1\ConsoleAppSOLID.pdb
+C:\Users\tomms\source\repos\ConsoleAppSOLID\ConsoleAppSOLID\obj\Debug\netcoreapp3.1\ConsoleAppSOLID.genruntimeconfig.cache
